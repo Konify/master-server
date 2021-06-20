@@ -1,0 +1,226 @@
+[
+	{
+		"name":"Kon Akech",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"Web developer",
+		"bio":"ths is about me",
+		"avatar":"/images/kon.jpg",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	},
+	{
+		"name":"Ring Deng",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"Web developer",
+		"bio":"ths is about me",
+		"avatar":"/images/konson.png",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	},
+	{
+		"name":"Wol Deng",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"I.T Stuff",
+		"bio":"ths is about me",
+		"avatar":"/images/konson.png",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	},
+	{
+		"name":"Bol Deng",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"Web developer",
+		"bio":"ths is about me",
+		"avatar":"/images/konson.png",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	},
+	{
+		"name":"Amir Akech",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"Web developer",
+		"bio":"ths is about me",
+		"avatar":"/images/konson.png",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	},
+	{
+		"name":"Marko Deng",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"Web developer",
+		"bio":"ths is about me",
+		"avatar":"/images/konson.png",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	},
+	{
+		"name":"Santino Bol",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"I.T Stuff",
+		"bio":"ths is about me",
+		"avatar":"/images/konson.png",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	},
+	{
+		"name":"Garang Bol",
+		"gender":"Male",
+		"age":"29",
+		"current_state":"Juba",
+		"title":"Web developer",
+		"bio":"ths is about me",
+		"avatar":"/images/konson.png",
+		"education":{
+			"university":"University of Juba",
+			"college":"Computer science Informaton & Technology",
+			"dept":"I.T"
+		},
+		"contacts":{
+			"phone":"+211920079070",
+			"email":"konsonak@gmail.com",
+			"whatsapp":"+221920079070"
+		},
+		"social_media":{
+			"facebook":"koni.akech",
+			"instagram":"konson",
+			"linked_in":"konson",
+			"twitter":"konson",
+			"github":"konson"
+		},
+		"projects":null,
+		"services":[]
+	}
+]
