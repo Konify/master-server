@@ -7,20 +7,37 @@ const neDb = require('nedb')
 const bcryptjs = require('bcryptjs')
 const itemRouter = require('./routes/items');
 const freelancerRouter = require('./routes/freelancers');
-const resultRouter = require('./routes/result');
 app.use(bodyParser.json())
 const cors = require('cors')
 app.use(cors())
 const items = new neDb('./modules/items.db')
+const resultData = new neDb('./modules/resultData.db')
 
 items.loadDatabase()
+resultData.loadDatabase()
 
 
 app.use('/items', itemRouter)
 app.use('/freelancers', freelancerRouter)
-app.use('/result', resultRouter)
 
 
+app.get('/result', (req, res) => {
+	resultData.find({}, (err, result) => {
+		res.json(result);
+	});
+});
+
+app.post('/result', (req, res)=> {
+	const {phone, password} = req.body
+
+	if(phone && password ){
+		resultData.insert(req.body, (err, result) => {
+			res.status(201).json(result)
+		});
+	}else{
+		res.send("Emnter password")
+	}
+});
 
 // sign up new user
 app.post('/signup', async (req, res)=> {
